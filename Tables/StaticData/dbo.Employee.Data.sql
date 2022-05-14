@@ -10,3 +10,5 @@ INSERT dbo.Employee(UserName, Password, Name, Role) VALUES (N'rowan', N'1234', N
 INSERT dbo.Employee(UserName, Password, Name, Role) VALUES (N'sokr', N'1234', NULL, N'user');
 
 INSERT dbo.Employee(UserName, Password, Name, Role) VALUES (N'rehab_betgarab', N'1234', NULL, N'user');
+
+INSERT dbo.Employee(UserName, Password, Name, Role) VALUES (N'rehab_tany', N'1234', NULL, N'user');
