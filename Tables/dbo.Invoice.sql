@@ -13,7 +13,3 @@ GO
 ALTER TABLE [dbo].[Invoice]
   ADD CONSTRAINT [FK_Invoice_AspNetUsers] FOREIGN KEY ([Employee_Username]) REFERENCES [dbo].[AspNetUsers] ([Id])
 GO
-
-ALTER TABLE [dbo].[Invoice]
-  ADD CONSTRAINT [FK_Invoice_Employee] FOREIGN KEY ([Employee_Username]) REFERENCES [dbo].[Employee] ([UserName])
-GO
