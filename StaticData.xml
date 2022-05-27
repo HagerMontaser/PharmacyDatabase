@@ -2,6 +2,14 @@
 <StaticDataList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Version>2</Version>
   <StaticDataLinks>
+    <StaticDataLink>dbo.__EFMigrationsHistory</StaticDataLink>
+    <StaticDataLink>dbo.AspNetRoleClaims</StaticDataLink>
+    <StaticDataLink>dbo.AspNetRoles</StaticDataLink>
+    <StaticDataLink>dbo.AspNetUserClaims</StaticDataLink>
+    <StaticDataLink>dbo.AspNetUserLogins</StaticDataLink>
+    <StaticDataLink>dbo.AspNetUserRoles</StaticDataLink>
+    <StaticDataLink>dbo.AspNetUsers</StaticDataLink>
+    <StaticDataLink>dbo.AspNetUserTokens</StaticDataLink>
     <StaticDataLink>dbo.Invoice</StaticDataLink>
     <StaticDataLink>dbo.Item</StaticDataLink>
     <StaticDataLink>dbo.Item_Invoice</StaticDataLink>
